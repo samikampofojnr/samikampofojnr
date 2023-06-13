@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @samikampofojnr
-- 👀 I’m interested in software dev
-- 🌱 I’m currently learning Software Testing
-- 💞️ I’m looking to collaborate on developers
+- 👋 Hi, I’m Samuel Ampofo
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning Software Testing.
+- 💞️ I’m looking to collaborate on developers.
 - 📫 How to reach me samikampofojnr@gmail.com
 
 <!---
